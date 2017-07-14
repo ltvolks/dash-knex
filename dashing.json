@@ -1,0 +1,20 @@
+{
+    "name": "Knex.js",
+    "package": "knex",
+    "index": "docsrc/index.html",
+    "selectors": {
+        "h2": "Guide",
+        "div[id^='Builder-'] b": {
+            "type": "Method"
+        },
+        "div[id^='Schema-'] b": {
+            "type": "Method"
+        }
+    },
+    "ignore": [
+        "Support"
+    ],
+    "icon32x32": "docsrc/assets/favicons/favicon-32x32.png",
+    "allowJS": false,
+    "ExternalURL": "http://knexjs.org/"
+}
